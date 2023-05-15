@@ -1,2 +1,2 @@
-# Baisc-python-for-machine-learning
+# Basic-python-for-machine-learning
 Python coding for Machine learning task
